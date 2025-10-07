@@ -6,4 +6,6 @@ All the resources used to pass the security +
 
 
 ## Useful Github Repositories
-- 
+- List of all Acronynms https://getcertified.ecpi.edu/wp-content/uploads/2021/06/CompTIA-SecurityPlus601-Acronyms.pdf
+
+## My Thoughts
