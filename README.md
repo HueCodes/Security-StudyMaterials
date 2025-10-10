@@ -13,6 +13,7 @@ All the resources used to pass the security +
 ## Useful Resources
 - List of all Acronynms https://getcertified.ecpi.edu/wp-content/uploads/2021/06/CompTIA-SecurityPlus601-Acronyms.pdf
 - Professor Messer on youtube https://www.youtube.com/playlist?list=PLG49S3nxzAnl4QDVqK-hOnoqcSKEIDDuv
+- Full study guide from reddit that is great. https://drive.google.com/file/d/1soNdeSkrjlweXeJ2iSaiR1OhnhPVxEFd/view
 
 ## My Thoughts
 - Test was easy overall, acronyms really important, multiple choice is helpful, Udemy cource was a solid stepping stone but definitely not necessary.
