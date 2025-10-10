@@ -16,4 +16,4 @@ All the resources used to pass the security +
 - Full study guide from reddit that is great. https://drive.google.com/file/d/1soNdeSkrjlweXeJ2iSaiR1OhnhPVxEFd/view
 
 ## My Thoughts
-- Test was easy overall, acronyms really important, multiple choice is helpful, Udemy cource was a solid stepping stone but definitely not necessary.
+- Test was easy overall, acronyms really important, multiple choice is helpful, Udemy cource was a solid stepping stone but definitely not necessary. I studied probably 25-30 hours and had an intermediate amount of knowledge coming into it. The free study guide of reddit was helpful and you can probably do fine with just free resources.
