@@ -1,4 +1,5 @@
-# Security+ Certification Study Repository
+# Security+ Certification Study Guide Help
+
 
 [![CompTIA Security+ Certified](https://img.shields.io/badge/CompTIA-Security%2B-blue?logo=comptia)](https://www.comptia.org/certifications/security)
 
