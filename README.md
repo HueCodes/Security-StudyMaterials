@@ -73,19 +73,8 @@ Here are some of the top resources I've found helpful:
 
 Track your own progress with the [Study Tracker Template](tools/study-tracker.xlsx).
 
-## 📅 Study Schedule
-| Week | Focus Domain | Goals | Status |
-|------|--------------|-------|--------|
-| 1-2  | Domain 1 & 2 | Read chapters 1-5, 50 practice Qs | ✅ Completed |
-| 3-4  | Domain 3     | Labs on firewalls, review notes | ⏳ In Progress |
-| 5-6  | Domain 4     | Incident response simulations | 🔄 Planned |
-| 7-8  | Domain 5     | Risk management case studies | 🔄 Planned |
-| 9    | Full Review  | 2 full practice exams | 🔄 Planned |
-| 10   | Exam Week    | Final cram & relax | 🔄 Planned |
 
-*Last Updated: October 14, 2025*
-
-## 🤝 Contributing
+## Contributing
 If you'd like to contribute (e.g., add notes, fix typos, or share resources), please:
 1. Fork the repo.
 2. Create a feature branch (`git checkout -b feature/amazing-feature`).
