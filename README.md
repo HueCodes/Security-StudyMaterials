@@ -5,7 +5,7 @@
 
 Welcome to my personal study repository for the CompTIA Security+ (SY0-701) certification! This repo serves as a centralized hub for my notes, resources, practice materials, and progress tracking as I prepare for the exam. Whether you're also studying for Security+ or just curious about cybersecurity fundamentals, feel free to browse, fork, or contribute.
 
-## 📚 Overview
+## Overview
 The CompTIA Security+ certification validates baseline skills in core security functions, including threat detection, risk management, cryptography, and compliance. My goal is to pass the exam by [insert target date, e.g., Q4 2025] and document my journey here.
 
 This repo includes:
@@ -22,7 +22,7 @@ This repo includes:
 - [Contributing](#contributing)
 - [License](#license)
 
-## 🛡️ Study Domains
+## Study Domains
 Based on the SY0-701 exam blueprint, I've organized notes by the five main domains:
 
 ### 1. General Security Concepts (12%)
@@ -45,7 +45,7 @@ Based on the SY0-701 exam blueprint, I've organized notes by the five main domai
 - Governance, risk management, compliance frameworks (e.g., NIST, GDPR).
 - [Notes](notes/domain-5-security-program-management.md)
 
-## 📚 Resources
+## Resources
 Here are some of the top resources I've found helpful:
 
 - **Official CompTIA Resources**:
@@ -64,7 +64,7 @@ Here are some of the top resources I've found helpful:
   - TryHackMe or HackTheBox for hands-on practice
   - Wireshark for network analysis
 
-## 🧪 Practice Materials
+## Practice Materials
 - **Flashcards**: Anki deck for key terms [Download here](practice/flashcards/security-plus-deck.apkg)
 - **Practice Exams**: 
   - 200+ questions in [this folder](practice/exams/)
@@ -86,25 +86,6 @@ All contributions welcome—let's learn together!
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-**Connect with me:** [LinkedIn](https://linkedin.com/in/yourusername) | [X/Twitter](https://x.com/yourusername)  
-*Stars and forks appreciated! 🚀*
-
-
-
-# Security-StudyMaterials
-All the resources used to pass the security +
-
-## Udemy Course
-- I completed the Jason Dion Udemy course and practice tests
-- https://www.udemy.com/course/securityplus/?couponCode=MT251006G3
-- There are a couple free tests I found online that work great.
-
-## CompTIA exam objectives
-- https://www.certblaster.com/wp-content/uploads/2020/11/CompTIA-Security-SY0-601-Exam-Objectives-1.0.pdf
-
 
 ## Useful Resources
 - List of all Acronynms https://getcertified.ecpi.edu/wp-content/uploads/2021/06/CompTIA-SecurityPlus601-Acronyms.pdf
